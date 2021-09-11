@@ -210,8 +210,8 @@
       <scope>system</scope>
       <systemPath>${basedir}/lib/SimpleClans.jar</systemPath>
     </dependency>
-Solar end -->
   </dependencies>
+Solar end -->
   <properties>
     <citizens.version>2.0.26-SNAPSHOT</citizens.version>
     <BUILD_NUMBER>Unknown</BUILD_NUMBER>
